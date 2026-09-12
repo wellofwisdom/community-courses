@@ -1,0 +1,4 @@
+This repository holds course content under CC-BY-4.0, CC-BY-SA-4.0 or CC0-1.0 per course file.
+See each course.wow-course.json for its licence field.
+
+The validator and workflow are AGPL-3.0-or-later from wellofwisdom/wellofwisdom.
